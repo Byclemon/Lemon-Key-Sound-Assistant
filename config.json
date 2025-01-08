@@ -1,0 +1,17 @@
+{
+    "current_scene": "scene_2",
+    "scenes": {
+        "scene_2": {
+            "name": "\u6768\u622c",
+            "key_sounds": {
+            }
+        },
+        "scene_1": {
+            "name": "\u9a6c\u8d85",
+            "key_sounds": {}
+        }
+    },
+    "stop_key": "SPACE",
+    "stop_on_unbound": true,
+    "long_press_optimize": true
+}
